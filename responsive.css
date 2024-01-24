@@ -1,0 +1,303 @@
+@media only screen and (max-width:767px) {
+
+    .upper-strip {
+        margin-top: 75px;
+    }
+
+    header {
+        height: 0px;
+    }
+
+    section main .left {
+        padding: 0;
+    }
+
+    section main .left h1 {
+        font-size: 30px;
+    }
+
+    section main .left h2 {
+        font-size: 22px;
+    }
+
+    section main .left p {
+        font-size: 18px;
+        letter-spacing: 0.6px;
+        color: #000;
+        line-height: 30px;
+        margin-bottom: 0;
+    }
+
+    section main .right .pfp {
+        margin-top: 0px;
+    }
+
+    section main .right {
+        top: -170px;
+        height: auto;
+        margin-bottom: -135px;
+    }
+    section main .right .below-pfp {
+        display: flex;
+        margin-top: 212%;
+        margin-right: 90%;
+        object-fit: cover;
+    }
+
+
+    section main {
+        height: auto;
+    }
+
+
+    section main .right .pfp {
+        margin-right: 320px;
+    }
+
+
+    .right-text {
+        width: 100%;
+        margin-top: 50%;
+    }
+    .certifications h2 {
+        font-size: 23px;
+    }
+
+    .l-content {
+        display: flex;
+        padding: 0;
+        margin: 0;
+    }
+    .right-text p {
+        font-size: 18px;
+    }
+
+    .courses {
+        padding: 15px 15px;
+    }
+
+    .course__Info {
+        padding: 2rem 10px;
+        text-align: center;
+    }
+
+
+    .course__Info p {
+        margin: 1.2rem 0 2rem;
+        font-size: 17px;
+        text-align: left;
+    }
+    .social-icons {
+        display: flex;
+        align-items: center;
+        height: 135px;
+        justify-content: center;
+        padding: 0;
+        gap: 40px;
+    }
+
+    .courses {
+        padding: 15px 15px 50px;
+    }
+
+    .community .social-icons {
+        display: inline-flex;
+        padding: 0;
+        gap: 5px;
+    }
+
+    .community .social-icons {
+        height: 100%;
+        width: 100%;
+        flex-direction: row;
+    }
+    .accordion {
+        padding: 40px 30px 40px 30px;
+    }
+
+    .accordion .accordion-text .faq-text {
+        height: auto;
+        padding-left: 0;
+    }
+
+    .info .infoBox div p {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .info .infoBox div a {
+        font-size: 18px;
+        text-decoration: none;
+    }
+
+    .testimonial-area .owl-carousel {
+        padding: 0 20px;
+        margin: 0 10px;
+        padding-right: 40px;
+    }
+
+    .upper-strip {
+        display: block;
+    }
+
+    .upper-strip h1 {
+        font-size: 20px;
+        font-weight: 400;
+    }
+    footer {
+        margin-top: 0;
+    }
+
+    footer .footer-first .comp-logo {
+        width: auto;
+    }
+
+    footer .footer-first .comp-logo {
+        width: auto;
+        padding: 20px 0;
+    }
+
+    footer .footer-first ul li a {
+        font-size: 20px;
+    }
+
+    footer .footer-first ul li {
+        padding: 5px 0;
+    }
+
+    footer .footer-first .information ul {
+        padding-left: 0;
+    }
+
+    .tab.courses-details-tab .nav.nav-tabs li.nav-item .nav-link {
+        margin-right: 10px;
+    }
+
+    .eligibility .eligibility-cont {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+
+    .eligibility .eligibility-cont .wrapper-pad .wrapper-in .creteria .creteria-cont .cont-left .content .box .box-cont ul {
+        padding-left: 0;
+    }
+
+    .box-cont ul {
+        padding-left: 0;
+    }
+    .coach .wrapper {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+
+
+    .coach .wrapper .wrapper-in .wrapper-padder {
+        padding: 0px;
+    }
+
+    .coach .wrapper .wrapper-in .wrapper-padder .name .name-pakka h2 {
+        font-size: 38px;
+    }
+
+    .coach .wrapper .wrapper-in .wrapper-padder .main-cont .cont-wrapper .about .about-wrapper p {
+        font-size: 18px;
+        text-align: justify;
+        line-height: 32px;
+    }
+
+
+    .help .wrapper {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+
+    .help .wrapper .wrapper-in .wrapper-padder .heading .heading-text h2 {
+        font-size: 30px;
+    }
+
+    .help .wrapper .wrapper-in .wrapper-padder .container .container-cont .cont-right .cont-right-cont, .help .wrapper .wrapper-in .wrapper-padder .container .container-cont .cont-left .cont-left-cont {
+        padding: 0px;
+    }
+    .help .wrapper .wrapper-in .wrapper-padder .container .container-cont .cont-right .cont-right-cont .box, .help .wrapper .wrapper-in .wrapper-padder .container .container-cont .cont-left .cont-left-cont .box {
+        margin-bottom: 0px;
+        width: 100%;
+        height: auto;
+    }
+
+    .help .wrapper .wrapper-in .wrapper-padder .container .container-cont .cont-right .cont-right-cont .box .box-cont .content .text h3, .help .wrapper .wrapper-in .wrapper-padder .container .container-cont .cont-left .cont-left-cont .box .box-cont .content .text h3 {
+        font-size: 16px !important;
+    }
+
+    .faq .faq-wrapper {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+
+    .faq .faq-wrapper .wrapper-in .wrapper-padder .heading {
+        margin-bottom: 0;
+    }
+
+    .faq .faq-wrapper .wrapper-in .wrapper-padder .accordion {
+        margin-bottom: 0px;
+    }
+
+    .faq .faq-wrapper .wrapper-in .wrapper-padder .accordion {
+        margin-bottom: 0px;
+        padding: 0;
+    }
+
+    .faq .faq-wrapper .wrapper-in .wrapper-padder .accordion .accordion-wrapper .accordion-final .item .label {
+        padding: 20px;
+    }
+    .faq .faq-wrapper .wrapper-in .wrapper-padder .accordion .accordion-wrapper .accordion-final .item.active .content {
+        padding: 20px;
+        display: block;
+        transition: 0.5s;
+    }
+    .courses-details-review-form .review-comments .review-item {
+        margin-top: 30px;
+        position: relative;
+        padding-right: 0;
+        border-top: 1px dashed #eee;
+        padding-top: 30px;
+    }
+
+    .courses-details-review-form {
+        margin-bottom: 40px;
+    }
+
+    .text p {
+        font-size: 11px;
+    }
+
+    .main .wrapper-padder .wrapper-up .wrapper .many-content .many-box .many-box-cont .many-box-cont-cont .rating .text {
+        flex-direction: row;
+    }
+
+    .main .wrapper-padder .wrapper-up .wrapper .many-content .many-box .many-box-cont .many-box-cont-cont .rating {
+        flex-direction: row;
+    }
+
+    .main .wrapper-padder .wrapper-up .wrapper {
+        gap: 10px;
+    }
+    .about .who {
+        display: flex;
+        padding: 0;
+        margin-top: -60px;
+    }
+
+
+    .popup-content {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        text-align: center;
+        position: relative;
+        width: 100%;
+    }
+
+
+
+
+}
